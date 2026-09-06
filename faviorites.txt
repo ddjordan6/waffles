@@ -2,3 +2,4 @@ My Favorite Things
 touch favorites.txt
 git add favorites.txt
 git commit -m "Add favorites.txt with a title"
+git push origin main
